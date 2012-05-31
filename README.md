@@ -1,4 +1,5 @@
-testInternals.js
-================
+# testInternals.js
 
-pila de tests sobre comportamiento de javascript
+Conjunto de tests que demuestran ciertos aspectos de javascript
+
+Usa tddfw.js como test runner
