@@ -1,0 +1,3 @@
+[submodule "tdd"]
+	path = tdd
+	url = git://github.com/paufraces/tddfw.js.git
